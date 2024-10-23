@@ -1,1 +1,3 @@
 # retroPGF
+
+Public repo for retroPGF [DRIPs](https://fil-retropgf.notion.site/Round-2-How-to-use-DRIPs-114d0d646da1808c84eaca0751029519)...
